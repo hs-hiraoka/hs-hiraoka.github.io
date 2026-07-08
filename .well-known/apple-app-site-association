@@ -3,6 +3,10 @@
     "apps": [],
     "details": [
       {
+        "appID": "3ZF3PR73GE.com.aks.kazdon",
+        "paths": [ "/app*" ]
+      },
+      {
         "appID": "432H4UGMPD.com.toydium.kazdon.dev",
         "paths": [ "/app*" ]
       }
