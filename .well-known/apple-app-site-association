@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "432H4UGMPD.com.toydium.kazdon.dev",
-        "paths": [ "/app" ]
+        "paths": [ "/app*" ]
       }
     ]
   }
