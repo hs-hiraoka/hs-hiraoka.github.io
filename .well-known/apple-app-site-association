@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "3ZF3PR73GE.com.aks.kazdon",
-        "paths": [ "/app*" ]
+        "paths": [ "/app/", "/app/*" ]
       },
       {
         "appID": "432H4UGMPD.com.toydium.kazdon.dev",
-        "paths": [ "/app*" ]
+        "paths": [ "/app/", "/app/*" ]
       }
     ]
   }
